@@ -1,0 +1,6 @@
+[submodule "jbig2dec"]
+	path = jbig2dec
+	url = git@github.com:ArtifexSoftware/jbig2dec.git
+[submodule "caj2pdf"]
+	path = caj2pdf
+	url = git@github.com:caj2pdf/caj2pdf.git
